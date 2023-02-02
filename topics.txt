@@ -1,0 +1,46 @@
+tuple(advanced) => more advanced than array in tuple we can define type of every element present in the array;
+
+enum() =>          
+
+Any() =>  
+
+Union Type() => 
+
+Literal Type() => 
+
+Type alias() =>  
+
+Function type() => 
+
+
+unknown type() =>
+
+never type() =>  
+
+rootDir and outDir() =>
+
+Code Quality improvement options
+
+class in typescript() => 
+
+
+what are access modiefiers :-
+
+
+why need access modiefiers :-
+
+public :-
+
+
+
+private :-
+
+# Constructor and shorthand
+
+Read only and private
+
+
+
+node modules  => http,fs,os,url,path,stream,util,assert,crypto
+
+
