@@ -1,10 +1,12 @@
-"use strict";
-class Users {
-    constructor() {
+var Users = /** @class */ (function () {
+    function Users(age, email) {
         this.name = "kapil";
         this.age = 0;
         this.email = "";
+        this.age = age;
+        this.email = email;
     }
-}
-const u1 = new Users();
-console.warn(u1.name);
+    return Users;
+}());
+var u1 = new Users(20, "kapilblal@nexgeniots.com");
+console.warn(u1);
